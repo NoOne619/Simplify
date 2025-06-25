@@ -110,8 +110,8 @@ For major changes, please open an issue first to discuss what you would like to 
 
 ## 📬 Contact
 
-* **Developer**: Aneeq Ahmed Malik
-* **GitHub**: [@Aneeq-Ahmed-Malik](https://github.com/Aneeq-Ahmed-Malik)
+* **Developer**: Abdullah Mehmood
+* **Email**: abdullahmehmood42@gmail.com
 
 ---
 
