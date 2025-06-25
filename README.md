@@ -13,8 +13,8 @@ It also supports **posting summaries** back to your Simplify app and **sharing t
   * `Dev.to`
   * `Wix`
 * 🤖 **AI Summarization**: Generates concise summaries using HuggingFace Transformers (`facebook/bart-large-cnn`).
-* 💬 **Chatbot Interaction**: Talk with your summaries via a conversational AI chatbot.
-* 🗣️ **Multiple Voice Agents**: Listen to summaries with different AI-generated voices.
+* 💬 **Chatbot Interaction(LangChain and Groq API)**: Talk with your summaries via a conversational AI chatbot.
+* 🗣️ **Multiple Voice Agents(Using silero Model)**: Listen to summaries with different AI-generated voices.
 * 📤 **Post Summaries**:
 
   * Back to the **Simplify app**.
@@ -41,7 +41,7 @@ It also supports **posting summaries** back to your Simplify app and **sharing t
 
 ```bash
 # Clone the repository
-git clone https://github.com/Aneeq-Ahmed-Malik/Simplify.git
+git clone https://github.com/NoOne619/Simplify.git
 cd Simplify
 
 # Create and activate a virtual environment
@@ -94,11 +94,6 @@ For major changes, please open an issue first to discuss what you would like to 
 
 ---
 
-## 📄 License
-
-[MIT License](LICENSE)
-
----
 
 ## 📬 Contact
 
@@ -111,5 +106,4 @@ For major changes, please open an issue first to discuss what you would like to 
 
 ---
 
-Would you also like me to help you create some badges (like `Python`, `FastAPI`, `Made with ❤️`, etc.) at the top of the README? They look very professional! 🚀
-Would you want that too? 🎖️
+
