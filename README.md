@@ -1,11 +1,3 @@
-Ah, I see — you want me to **rewrite your README** properly, **including** your **new features**:
-chatbot, multiple voice agents, posting summaries to your app + social media.
-
-Let’s create a **professional, complete README** for your project:
-Here’s the updated version:
-
----
-
 # 🧠 Simplify — Scrape, Summarize, Chat, and Share Web Content
 
 **Simplify** is an advanced FastAPI-based backend that scrapes articles from popular blogging platforms like **Medium**, **Dev.to**, and **Wix**, generates clean **AI-powered summaries**, and enables interaction through **chatbots** and **voice agents**.
